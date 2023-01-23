@@ -1,2 +1,3 @@
-# pythonfinalproject
-Python Final Project Analyzing Historical Stock/Revenue Data and Building a Dashboard
+# test repo
+## editing the file
+It's a markdown file in this repository
